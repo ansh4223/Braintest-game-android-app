@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Himanshu\AndroidStudioProjects\Braintest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="4a39896debe4db461dfbc798c99b007565e9fdc8">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\Braintest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b7ea646ac97c6977561216997b8f03d59058bbe0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Himanshu\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\Braintest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_44c5a7ffa73d179d01e3a732fbc1e8587e35fddc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Himanshu\AndroidStudioProjects\Braintest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="48909150b170e3fce47f1d5b4b3397dee180261e">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\Braintest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_aca1299194c7a2b2c34a714131bd03d037acb6ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Himanshu\AndroidStudioProjects\Braintest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\Braintest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_a35153b115dce43d1f7c2a3aa9547fdb5420a73a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Himanshu\AndroidStudioProjects\Braintest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\Braintest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_cf1b25c9fabee8f955085fc5d66077abeef62466\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Himanshu\AndroidStudioProjects\Braintest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\Braintest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_ce5101685242cc49bceffa127aec6670e7ede673\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Himanshu\AndroidStudioProjects\Braintest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\Braintest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_2f68c654efe8f430d0e919faaa491ff4a4f07e61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Himanshu\AndroidStudioProjects\Braintest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\Braintest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_7f1b2ef7a940a59757ef76004a59b53228cbec67\classes.dex" />
+    </item>
+
+</items>
